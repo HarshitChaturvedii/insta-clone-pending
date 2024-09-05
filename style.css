@@ -91,7 +91,7 @@ body{
 }
 
 .exploreButton{
-    background-image: url(./Exploreicon.png);
+    background-image: url(./exploreIcon.png);
     display: flex;
     justify-content: center;
     align-items: center;
